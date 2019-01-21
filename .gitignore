@@ -107,3 +107,4 @@ ENV/
 
 # Reports
 /reports/
+/final/processed_data/
