@@ -1,4 +1,7 @@
 # Predict Future Sales
 
-Решение для соревнавания на [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) - 
-прогноз продаж в 42 магазинах по наменклатуре в 5100 товаров
+Solution for [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) 
+
+Prediction of total sales for 5100 products in 42 stores in the next month:
+
+RMSE on true target values clipped into [0,20] - 0.91216
